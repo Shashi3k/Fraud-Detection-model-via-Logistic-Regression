@@ -10,7 +10,7 @@ Train-Test Split: Ensured model reliability through strategic data partitioning.
 Model Training: Logistic regression yielded exceptional results, achieving over 92% accuracy on both training and testing data, mitigating overfitting and underfitting risks.
 Getting Started
 Clone the repository.
-git clone https://github.com/yourusername/credit-card-fraud-detection.git
+git clone https://github.com/Shashi3k/credit-card-fraud-detection.git
 Install dependencies.
 pip install -r requirements.txt
 Run the model.
