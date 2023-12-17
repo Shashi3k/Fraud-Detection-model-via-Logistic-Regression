@@ -1,4 +1,4 @@
-Credit Card Fraud Detection 🛡️💳
+#Credit Card Fraud Detection 🛡️💳
 Overview
 This project implements a Credit Card Fraud Detection model using logistic regression. The goal is to identify fraudulent transactions with high accuracy.
 
